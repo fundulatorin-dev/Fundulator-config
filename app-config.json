@@ -3,9 +3,9 @@
     "minimumSupportedBuildCode": 3
   },
   "rates": {
-    "ppf": 6.1,
-    "epf": 6.25,
-    "ssy": 7.2,
+    "ppf": 7.1,
+    "epf": 8.25,
+    "ssy": 8.2,
     "lastUpdated": "2026-07-01"
   }
   
