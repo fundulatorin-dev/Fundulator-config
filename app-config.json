@@ -1,6 +1,6 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 2
+    "minimumSupportedBuildCode": 4
   },
   "rates": {
     "ppf": 7.1,
