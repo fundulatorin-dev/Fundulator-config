@@ -1,7 +1,7 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 5,
-    "latestVersion": "1.0.3",
+    "minimumSupportedBuildCode": 4,
+    "latestVersion": "1.0.2",
     "latestBuildCode": 4,
     "changelog": [
       "Initial production release v1.0.2 for testing",
