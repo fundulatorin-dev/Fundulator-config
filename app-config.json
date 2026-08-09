@@ -1,12 +1,17 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 4
+    "minimumSupportedBuildCode": 4,
+    "latestVersion": "1.0.2",
+    "latestBuildCode": 4,
+    "changelog": [
+      "Initial production release v1.0.2 for testing",
+      "Complete investment calculator suite & cosmic theme"
+    ]
   },
   "rates": {
     "ppf": 7.1,
     "epf": 8.25,
-    "ssy": 8.2,
+    "ssy": 8,
     "lastUpdated": "2026-07-01"
   }
-  
 }
