@@ -1,12 +1,11 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 5,
-    "latestVersion": "1.0.3",
-    "latestBuildCode": 5,
+    "minimumSupportedBuildCode": 6,
+    "latestVersion": "1.0.4",
+    "latestBuildCode": 6,
     "changelog": [
-      "Initial production release v1.0.3 for testing",
+      "Initial production release v1.0.4 for testing",
       "Added a guided walkthrough for first-time users",
-      "Added support for System Theme (Dark/Light mode)",
       "Improved layout spacing and typography",
       "Fixed back button navigation behavior"
     ]
