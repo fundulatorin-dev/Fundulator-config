@@ -1,10 +1,10 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 7,
-    "latestVersion": "1.0.5",
-    "latestBuildCode": 7,
+    "minimumSupportedBuildCode": 8,
+    "latestVersion": "1.0.6",
+    "latestBuildCode": 8,
     "changelog": [
-      "Initial production release v1.0.5 for testing",
+      "Initial production release v1.0.6 for testing",
       "Added a guided walkthrough for first-time users",
       "Improved layout spacing and typography",
       "Fixed back button navigation behavior"
