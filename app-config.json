@@ -1,17 +1,17 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 6,
-    "latestVersion": "1.0.4",
-    "latestBuildCode": 6,
+    "minimumSupportedBuildCode": 7,
+    "latestVersion": "1.0.5",
+    "latestBuildCode": 7,
     "changelog": [
-      "Initial production release v1.0.4 for testing",
+      "Initial production release v1.0.5 for testing",
       "Added a guided walkthrough for first-time users",
       "Improved layout spacing and typography",
       "Fixed back button navigation behavior"
     ]
   },
   "rates": {
-    "ppf": 7.1,
+    "ppf": 7.11,
     "epf": 8.25,
     "ssy": 8.2,
     "lastUpdated": "2026-08-15"
