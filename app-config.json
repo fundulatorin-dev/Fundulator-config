@@ -1,8 +1,8 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 7,
-    "latestVersion": "1.0.5",
-    "latestBuildCode": 7,
+    "minimumSupportedBuildCode": 6,
+    "latestVersion": "1.0.4",
+    "latestBuildCode": 6,
     "changelog": [
       "Initial production release v1.0.4 for testing",
       "Added a guided walkthrough for first-time users",
@@ -11,7 +11,7 @@
     ]
   },
   "rates": {
-    "ppf": 7.11,
+    "ppf": 7.1,
     "epf": 8.25,
     "ssy": 8.2,
     "lastUpdated": "2026-08-15"
