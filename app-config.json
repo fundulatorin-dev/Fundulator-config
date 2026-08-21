@@ -3,7 +3,7 @@
     "minimumSupportedBuildCode": 8,
     "latestVersion": "1.0.6",
     "latestBuildCode": 8,
-     "forceUpdateBuildCode": 10,
+     "forceUpdateBuildCode": 5,
     "changelog": [
       "Initial production release v1.0.6 for testing",
       "Added a guided walkthrough for first-time users",
