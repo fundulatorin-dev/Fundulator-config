@@ -1,14 +1,15 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 8,
-    "latestVersion": "1.0.6",
-    "latestBuildCode": 8,
-     "forceUpdateBuildCode": 5,
+    "minimumSupportedBuildCode": 11,
+    "latestVersion": "1.1.1",
+    "latestBuildCode": 12,
+     "forceUpdateBuildCode": 10,
     "changelog": [
-      "Initial production release v1.0.6 for testing",
-      "Added a guided walkthrough for first-time users",
-      "Improved layout spacing and typography",
-      "Fixed back button navigation behavior"
+         "Optional input sliders: Toggle interactive sliders or numpad anytime in Settings",
+      "Streamlined homepage with a cleaner layout",
+      "Visually rich graphs with interactive touch scrubbers and smooth projections",
+      "Added historical interest rate tracking for SSY, EPF, and PPF",
+      "Bug fixes and launch performance improvements"
     ]
   },
   "rates": {
