@@ -1,7 +1,7 @@
 {
   "app": {
     "minimumSupportedBuildCode": 14,
-    "latestVersion": "1.1.1",
+    "latestVersion": "1.1.3",
     "latestBuildCode": 14,
      "forceUpdateBuildCode": 10,
     "changelog": [
