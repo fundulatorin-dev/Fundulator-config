@@ -1,8 +1,8 @@
 {
   "app": {
     "minimumSupportedBuildCode": 11,
-    "latestVersion": "1.1.2",
-    "latestBuildCode": 13,
+    "latestVersion": "1.1.1",
+    "latestBuildCode": 12,
      "forceUpdateBuildCode": 10,
     "changelog": [
      "⚠️ If update fails, please visit: https://play.google.com/store/apps/details?id=in.fundulator.app",
