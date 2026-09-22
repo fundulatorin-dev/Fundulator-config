@@ -1,8 +1,8 @@
 {
   "app": {
-    "minimumSupportedBuildCode": 14,
-    "latestVersion": "1.1.3",
-    "latestBuildCode": 14,
+    "minimumSupportedBuildCode": 11,
+    "latestVersion": "1.1.2",
+    "latestBuildCode": 13,
      "forceUpdateBuildCode": 10,
     "changelog": [
      "⚠️ If update fails, please visit: https://play.google.com/store/apps/details?id=in.fundulator.app",
@@ -14,7 +14,7 @@
     ]
   },
   "rates": {
-    "ppf": 7.11,
+    "ppf": 7.1,
     "epf": 8.25,
     "ssy": 8.2,
     "lastUpdated": "2026-08-15"
