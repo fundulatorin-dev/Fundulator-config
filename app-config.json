@@ -17,6 +17,12 @@
     "ppf": 7.1,
     "epf": 8.25,
     "ssy": 8.2,
-    "lastUpdated": "2026-08-15"
+   "lastUpdated": "2027-01-01",
+    "revisions": {
+      "ppf": [
+        { "period": "01.10.2026 to 31.12.2026", "rate": "7.11%" },
+        { "period": "01.01.2027 onwards", "rate": "7.15%" }
+      ]
+    }
   }
 }
